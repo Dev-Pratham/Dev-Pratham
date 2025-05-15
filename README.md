@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Pratham Chaurasia</h1>
-<h3 align="center">Aspiring Full Stack Developer | MSc Computer Science @ BHU</h3>
+<h3 align="center">Software Engineer | MSc Computer Science @ BHU</h3>
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=dev-pratham&label=Profile%20views&color=0e75b6&style=flat" alt="dev-pratham" />
