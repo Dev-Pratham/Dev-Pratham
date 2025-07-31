@@ -37,10 +37,10 @@
 ### 🔗 Connect with Me
 
 <p align="left">
-  <a href="https://linkedin.com/in/prathamchaurasia" target="_blank">
+  <a href="linkedin.com/in/pratham-chaurasia-6990102b6" target="_blank">
     <img src="https://img.shields.io/badge/-LinkedIn-blue?logo=linkedin&style=for-the-badge" />
   </a>
-  <a href="mailto:prathamchaurasia.dev@gmail.com">
+  <a href="mailto:pratham.chaurasia31@gmail.com">
     <img src="https://img.shields.io/badge/-Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
 </p>
