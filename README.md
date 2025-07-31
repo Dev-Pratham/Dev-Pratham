@@ -9,7 +9,7 @@
 - 💻 Most of my work lives here on GitHub
 - 🎯 2025 Goal: Build and launch a full-stack application
 - 🧠 Currently exploring **DSA**, **React.js**, and **Backend Technologies**
-- 📫 Reach me at **prathamchaurasia.dev@gmail.com**
+- 📫 Reach me at **pratham.chaurasia31@gmail.com**
 - ⚡ Fun fact: I love solving real-world problems through code
 
 ---
